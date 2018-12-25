@@ -2,7 +2,7 @@ Petit projet personnel fortement inspiré du jeu du même nom sur Sega Master Sy
 Le jeu utilise la librairie SDL 1.2 ainsi que SDL_Mixer.
 Le CMake permet de compiler sous Windows.
 
-https://raw.githubusercontent.com/ProjectRedMonkey/Bubble/master/resources/images/screenshot.png
+![Screenshot](https://raw.githubusercontent.com/ProjectRedMonkey/Bubble/master/resources/images/screenshot.png)
 
 On se déplacer avec q/d/space, et on tire avec f.
 Notre dino possède 3 vies.
